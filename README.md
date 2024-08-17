@@ -4,6 +4,7 @@
 
 ------
 
+En este repositorio se pueden encontrar los script de Jupyter Notebook empleados para realizar las simulaciones de Monte-Carlo con OpenMC.
 
-
-Este repositorio
+Versión 0.15 OpenMC
+Ubuntu 22.04.4 LTS
