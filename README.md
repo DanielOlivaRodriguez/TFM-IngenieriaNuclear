@@ -2,8 +2,8 @@
 
 _**DANIEL OLIVA RODRÍGUEZ**_
 
-> MÁSTER EN CIENCIA E INGENIERÍA NUCLEAR
-> Universidad Politécnica de Madrid
+#### MÁSTER EN CIENCIA E INGENIERÍA NUCLEAR
+#### Universidad Politécnica de Madrid
 
 
 
