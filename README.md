@@ -1,6 +1,7 @@
-# MÁSTER EN CIENCIA E INGENIERÍA NUCLEAR - UPM
-## Trabajo Fin de Máster
-### Análisis del ciclo de vida nuclear integrando las técnicas de separación y transmutación
+
+# MÁSTER EN CIENCIA E INGENIERÍA NUCLEAR
+## Universidad Politécnica de Madrid
+### TFM - Análisis del ciclo de vida nuclear integrando las técnicas de separación y transmutación
 
 _*DANIEL OLIVA RODRÍGUEZ*_
 
