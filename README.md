@@ -21,7 +21,6 @@ Modelo de reactor SFR con 355 elementos combustibles hexagonales, dos regiones d
 </p>
 
 ------
+*Ubuntu 22.04.4 LTS*
 
 *Versión 0.15 OpenMC*
-
-*Ubuntu 22.04.4 LTS*
