@@ -2,8 +2,7 @@
 
 _**DANIEL OLIVA RODRÍGUEZ**_
 
-**MÁSTER EN CIENCIA E INGENIERÍA NUCLEAR**
-**Universidad Politécnica de Madrid**
+**Máster en Ciencia e Ingeniería Nuclear - Universidad Politécnica de Madrid**
 
 
 
