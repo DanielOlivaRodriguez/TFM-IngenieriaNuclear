@@ -1,7 +1,8 @@
-# Análisis del ciclo de vida nuclear integrando las técnicas de separación y transmutación
-**Máster en Ciencia e Ingeniería Nuclear - Universidad Politécnica de Madrid**
+# TFM - Daniel Oliva Rodríguez
+## "Análisis del ciclo de vida nuclear integrando las técnicas de separación y transmutación"
+### Máster en Ciencia e Ingeniería Nuclear - Universidad Politécnica de Madrid
 
-_**DANIEL OLIVA RODRÍGUEZ**_
+------
 
 
 
