@@ -10,14 +10,14 @@ En este repositorio se pueden encontrar los script de Jupyter Notebook empleados
 Modelo de reactor PWR con 157 elementos combustibles, 3 regiones de enriquecimiento y matriz 17x17. Modelo basado en los reactores PWR Westinghouse.
 
 <p algin="center">
-    <img src="https://github.com/DanielOlivaRodriguez/TFM-IngenieriaNuclear/blob/main/Reactor_PWR/imagenes/pwr_core.jpg">
+    <img src="https://github.com/DanielOlivaRodriguez/TFM-IngenieriaNuclear/blob/main/Reactor_PWR/resultados_uo2/imagenes/pwr_core.jpg">
 </p>
 
 #### Reactor SFR
 Modelo de reactor SFR con 452 elementos combustibles hexagonales, dos regiones de enriquecimiento y combustible MOX con actínidos minoritarios y productos de fisión. 
 
  <p algin="center">
-    <img src="https://github.com/DanielOlivaRodriguez/TFM-IngenieriaNuclear/blob/main/Reactor_SFR/imagenes/sfr_core.jpg">
+    <img src="https://github.com/DanielOlivaRodriguez/TFM-IngenieriaNuclear/blob/main/Reactor_SFR/resultados/imagenes/sfr_core.jpg">
 </p>
 
 ------

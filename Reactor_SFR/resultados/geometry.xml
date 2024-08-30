@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<geometry>
+  <cell id="101" material="15" region="-1 -23 22" universe="1"/>
+  <cell id="102" material="6" region="-2 -24 23" universe="1"/>
+  <cell id="103" material="6" region="1 -2 -23 22" universe="1"/>
+  <cell id="104" material="11" region="2 -3 -24 22" universe="1"/>
+  <cell id="105" material="13" region="3 -24 22" universe="1"/>
+  <cell id="106" material="16" region="-1 -23 22" universe="2"/>
+  <cell id="107" material="6" region="-2 -24 23" universe="2"/>
+  <cell id="108" material="6" region="1 -2 -23 22" universe="2"/>
+  <cell id="109" material="11" region="2 -3 -24 22" universe="2"/>
+  <cell id="110" material="13" region="3 -24 22" universe="2"/>
+  <cell id="111" material="13" universe="3"/>
+  <cell id="112" material="9" region="-4 -24 22" universe="4"/>
+  <cell id="113" material="13" region="3 -24 22" universe="4"/>
+  <cell id="114" material="14" universe="5"/>
+  <cell id="115" material="7" region="-1 -23 22" universe="6"/>
+  <cell id="116" material="6" region="-2 -24 23" universe="6"/>
+  <cell id="117" material="6" region="1 -2 -23 22" universe="6"/>
+  <cell id="118" material="11" region="2 -3 -24 22" universe="6"/>
+  <cell id="119" material="13" region="3 -24 22" universe="6"/>
+  <cell id="120" material="8" region="-1 -23 22" universe="7"/>
+  <cell id="121" material="6" region="-2 -24 23" universe="7"/>
+  <cell id="122" material="6" region="1 -2 -23 22" universe="7"/>
+  <cell id="123" material="11" region="2 -3 -24 22" universe="7"/>
+  <cell id="124" material="13" region="3 -24 22" universe="7"/>
+  <cell fill="1000" id="200" region="-36 37 -38 -41 39 40 -24 22" universe="100"/>
+  <cell id="201" material="12" region="-30 31 -32 -35 33 34 ~(-36 37 -38 -41 39 40) -24 22" universe="100"/>
+  <cell id="202" material="13" region="~(-30 31 -32 -35 33 34) -24 22" universe="100"/>
+  <cell fill="1001" id="203" region="-54 55 -56 -59 57 58 -24 22" universe="101"/>
+  <cell id="204" material="12" region="-48 49 -50 -53 51 52 ~(-54 55 -56 -59 57 58) -24 22" universe="101"/>
+  <cell id="205" material="13" region="~(-48 49 -50 -53 51 52) -24 22" universe="101"/>
+  <cell id="206" material="13" region="-72 73 -74 -77 75 76 -24 22" universe="102"/>
+  <cell id="207" material="12" region="-66 67 -68 -71 69 70 ~(-72 73 -74 -77 75 76) -24 22" universe="102"/>
+  <cell id="208" material="13" region="~(-66 67 -68 -71 69 70) -24 22" universe="102"/>
+  <cell fill="1002" id="209" region="-90 91 -92 -95 93 94 -24 22" universe="103"/>
+  <cell id="210" material="12" region="-84 85 -86 -89 87 88 ~(-90 91 -92 -95 93 94) -24 22" universe="103"/>
+  <cell id="211" material="13" region="~(-84 85 -86 -89 87 88) -24 22" universe="103"/>
+  <cell fill="1003" id="212" region="-108 109 -110 -113 111 112 -24 22" universe="104"/>
+  <cell id="213" material="12" region="-102 103 -104 -107 105 106 ~(-108 109 -110 -113 111 112) -24 22" universe="104"/>
+  <cell id="214" material="13" region="~(-102 103 -104 -107 105 106) -24 22" universe="104"/>
+  <cell id="215" material="9" region="-22 21 -11 12 -13 -14 15 16" universe="105"/>
+  <cell id="216" material="9" region="-25 24 -11 12 -13 -14 15 16" universe="105"/>
+  <cell id="217" material="14" region="-21 20 -5 6 -7 -8 9 10" universe="105"/>
+  <cell id="218" material="14" region="-26 25 -5 6 -7 -8 9 10" universe="105"/>
+  <cell id="219" material="14" region="-22 21 -5 6 -7 -8 9 10 ~(-11 12 -13 -14 15 16)" universe="105"/>
+  <cell id="220" material="14" region="-25 24 -5 6 -7 -8 9 10 ~(-11 12 -13 -14 15 16)" universe="105"/>
+  <cell fill="1004" id="250" region="-5 6 -7 -8 9 10 -24 22" universe="105"/>
+  <hex_lattice id="1000" n_rings="9" name="Elemento combustible anillo interior" orientation="x">
+    <pitch>1.24</pitch>
+    <outer>3</outer>
+    <center>0 0</center>
+    <universes>
+        1 1 1 1 1 1 1 1 1
+       1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1
+     1 1 1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1 1 1 1
+   1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+   1 1 1 1 1 1 1 1 1 1 1 1 1 1
+    1 1 1 1 1 1 1 1 1 1 1 1 1
+     1 1 1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 1 1 1 1 1 1
+       1 1 1 1 1 1 1 1 1 1
+        1 1 1 1 1 1 1 1 1</universes>
+  </hex_lattice>
+  <hex_lattice id="1001" n_rings="9" name="Elemento combustible anillo exterior" orientation="x">
+    <pitch>1.24</pitch>
+    <outer>3</outer>
+    <center>0 0</center>
+    <universes>
+        2 2 2 2 2 2 2 2 2
+       2 2 2 2 2 2 2 2 2 2
+      2 2 2 2 2 2 2 2 2 2 2
+     2 2 2 2 2 2 2 2 2 2 2 2
+    2 2 2 2 2 2 2 2 2 2 2 2 2
+   2 2 2 2 2 2 2 2 2 2 2 2 2 2
+  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+   2 2 2 2 2 2 2 2 2 2 2 2 2 2
+    2 2 2 2 2 2 2 2 2 2 2 2 2
+     2 2 2 2 2 2 2 2 2 2 2 2
+      2 2 2 2 2 2 2 2 2 2 2
+       2 2 2 2 2 2 2 2 2 2
+        2 2 2 2 2 2 2 2 2</universes>
+  </hex_lattice>
+  <hex_lattice id="1002" n_rings="9" name="Elemento reflector" orientation="x">
+    <pitch>1.24</pitch>
+    <outer>3</outer>
+    <center>0 0</center>
+    <universes>
+        4 4 4 4 4 4 4 4 4
+       4 4 4 4 4 4 4 4 4 4
+      4 4 4 4 4 4 4 4 4 4 4
+     4 4 4 4 4 4 4 4 4 4 4 4
+    4 4 4 4 4 4 4 4 4 4 4 4 4
+   4 4 4 4 4 4 4 4 4 4 4 4 4 4
+  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+ 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4
+   4 4 4 4 4 4 4 4 4 4 4 4 4 4
+    4 4 4 4 4 4 4 4 4 4 4 4 4
+     4 4 4 4 4 4 4 4 4 4 4 4
+      4 4 4 4 4 4 4 4 4 4 4
+       4 4 4 4 4 4 4 4 4 4
+        4 4 4 4 4 4 4 4 4</universes>
+  </hex_lattice>
+  <hex_lattice id="1003" n_rings="9" name="Elemento combustible con productos de fisión" orientation="x">
+    <pitch>1.24</pitch>
+    <outer>3</outer>
+    <center>0 0</center>
+    <universes>
+        1 1 1 1 1 1 1 1 1
+       1 1 1 1 1 1 1 1 1 1
+      1 1 1 1 1 7 1 1 1 1 1
+     1 1 1 6 1 1 1 1 6 1 1 1
+    1 1 1 1 1 1 1 1 1 1 1 1 1
+   1 1 7 1 1 1 1 1 1 1 1 7 1 1
+  1 1 1 1 1 1 7 1 7 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 6 1 1 7 1 6 1 7 1 1 6 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+  1 1 1 1 1 1 7 1 7 1 1 1 1 1 1
+   1 1 7 1 1 1 1 1 1 1 1 7 1 1
+    1 1 1 1 1 1 1 1 1 1 1 1 1
+     1 1 1 6 1 1 1 1 6 1 1 1
+      1 1 1 1 1 7 1 1 1 1 1
+       1 1 1 1 1 1 1 1 1 1
+        1 1 1 1 1 1 1 1 1</universes>
+  </hex_lattice>
+  <hex_lattice id="1004" n_rings="17" name="core">
+    <pitch>21.2205</pitch>
+    <outer>5</outer>
+    <center>0 0</center>
+    <universes>
+                                                103
+                                             103   103
+                                          103   103   103
+                                       103   103   103   103
+                                    103   103   103   103   103
+                                 103   103   103   103   103   103
+                              103   103   103   103   103   103   103
+                           103   103   103   103   103   103   103   103
+                        103   103   103   103   103   103   103   103   103
+                     103   103   103   103   101   101   103   103   103   103
+                  103   103   103   103   101   101   101   103   103   103   103
+               103   103   103   101   101   101   101   101   101   103   103   103
+            103   103   103   101   101   101   101   101   101   101   103   103   103
+         103   103   103   101   101   101   101   101   101   101   101   103   103   103
+      103   103   103   101   101   101   101   101   101   101   101   101   103   103   103
+   103   103   103   103   101   101   101   101   101   101   101   101   103   103   103   103
+103   103   103   103   101   101   101   102   100   102   101   101   101   103   103   103   103
+   103   103   103   101   101   102   100   100   100   100   102   101   101   103   103   103
+103   103   103   101   101   101   100   100   100   100   100   101   101   101   103   103   103
+   103   103   101   101   101   100   100   100   100   100   100   101   101   101   103   103
+103   103   103   101   101   100   100   100   100   100   100   100   101   101   103   103   103
+   103   103   101   101   102   100   100   100   102   100   100   102   101   101   103   103
+103   103   101   101   101   100   100   100   100   100   100   100   101   101   101   103   103
+   103   103   101   101   100   100   102   100   100   100   100   100   101   101   103   103
+103   103   101   101   100   100   100   100   100   100   100   100   100   101   101   103   103
+   103   103   101   101   100   100   100   100   100   100   102   100   101   101   103   103
+103   103   101   101   100   100   100   104   102   104   100   100   100   101   101   103   103
+   103   103   101   102   100   100   100   100   100   100   100   100   102   101   103   103
+103   103   101   101   100   102   100   100   100   100   100   100   100   101   101   103   103
+   103   101   101   100   100   100   102   104   104   102   100   100   100   101   101   103
+103   103   101   101   100   100   100   100   100   100   100   100   100   101   101   103   103
+   103   101   101   100   100   100   100   100   100   100   100   100   100   101   101   103
+103   103   101   102   100   100   104   104   102   104   104   102   100   102   101   103   103
+   103   101   101   100   100   100   100   100   100   100   100   100   100   101   101   103
+103   103   101   101   100   100   100   100   100   100   100   100   100   101   101   103   103
+   103   101   101   100   100   100   102   104   104   102   100   100   100   101   101   103
+103   103   101   101   100   102   100   100   100   100   100   100   100   101   101   103   103
+   103   103   101   102   100   100   100   100   100   100   100   100   102   101   103   103
+103   103   101   101   100   100   100   104   102   104   100   100   100   101   101   103   103
+   103   103   101   101   100   100   100   100   100   100   102   100   101   101   103   103
+103   103   101   101   100   100   100   100   100   100   100   100   100   101   101   103   103
+   103   103   101   101   100   100   102   100   100   100   100   100   101   101   103   103
+103   103   101   101   101   100   100   100   100   100   100   100   101   101   101   103   103
+   103   103   101   101   102   100   100   100   102   100   100   102   101   101   103   103
+103   103   103   101   101   100   100   100   100   100   100   100   101   101   103   103   103
+   103   103   101   101   101   100   100   100   100   100   100   101   101   101   103   103
+103   103   103   101   101   101   100   100   100   100   100   101   101   101   103   103   103
+   103   103   103   101   101   102   100   100   100   100   102   101   101   103   103   103
+103   103   103   103   101   101   101   102   100   102   101   101   101   103   103   103   103
+   103   103   103   103   101   101   101   101   101   101   101   101   103   103   103   103
+      103   103   103   101   101   101   101   101   101   101   101   101   103   103   103
+         103   103   103   101   101   101   101   101   101   101   101   103   103   103
+            103   103   103   101   101   101   101   101   101   101   103   103   103
+               103   103   103   101   101   101   101   101   101   103   103   103
+                  103   103   103   103   101   101   101   103   103   103   103
+                     103   103   103   103   101   101   103   103   103   103
+                        103   103   103   103   103   103   103   103   103
+                           103   103   103   103   103   103   103   103
+                              103   103   103   103   103   103   103
+                                 103   103   103   103   103   103
+                                    103   103   103   103   103
+                                       103   103   103   103
+                                          103   103   103
+                                             103   103
+                                                103</universes>
+  </hex_lattice>
+  <surface coeffs="0.0 0.0 0.4742" id="1" type="z-cylinder"/>
+  <surface coeffs="0.0 0.0 0.4893" id="2" type="z-cylinder"/>
+  <surface coeffs="0.0 0.0 0.5419" id="3" type="z-cylinder"/>
+  <surface coeffs="0.0 0.0 0.5419" id="4" type="z-cylinder"/>
+  <surface boundary="vacuum" coeffs="318.5414640199922" id="5" type="x-plane"/>
+  <surface boundary="vacuum" coeffs="-318.5414640199922" id="6" type="x-plane"/>
+  <surface boundary="vacuum" coeffs="0.5773502691896257 1.0 0.0 367.82" id="7" type="plane"/>
+  <surface boundary="vacuum" coeffs="-0.5773502691896257 1.0 0.0 367.82" id="8" type="plane"/>
+  <surface boundary="vacuum" coeffs="-0.5773502691896257 1.0 0.0 -367.82" id="9" type="plane"/>
+  <surface boundary="vacuum" coeffs="0.5773502691896257 1.0 0.0 -367.82" id="10" type="plane"/>
+  <surface coeffs="305.5510829632256" id="11" type="x-plane"/>
+  <surface coeffs="-305.5510829632256" id="12" type="x-plane"/>
+  <surface coeffs="0.5773502691896257 1.0 0.0 352.82" id="13" type="plane"/>
+  <surface coeffs="-0.5773502691896257 1.0 0.0 352.82" id="14" type="plane"/>
+  <surface coeffs="-0.5773502691896257 1.0 0.0 -352.82" id="15" type="plane"/>
+  <surface coeffs="0.5773502691896257 1.0 0.0 -352.82" id="16" type="plane"/>
+  <surface boundary="vacuum" coeffs="-108.0" id="20" type="z-plane"/>
+  <surface coeffs="-88.0" id="21" type="z-plane"/>
+  <surface coeffs="-55.0" id="22" type="z-plane"/>
+  <surface coeffs="55.0" id="23" type="z-plane"/>
+  <surface coeffs="220.0" id="24" type="z-plane"/>
+  <surface coeffs="255.0" id="25" type="z-plane"/>
+  <surface boundary="vacuum" coeffs="275.0" id="26" type="z-plane"/>
+  <surface coeffs="10.06581326818653" id="30" type="y-plane"/>
+  <surface coeffs="-10.06581326818653" id="31" type="y-plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 20.13162653637306" id="32" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 -20.13162653637306" id="33" type="plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 -20.13162653637306" id="34" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 20.13162653637306" id="35" type="plane"/>
+  <surface coeffs="9.673936772974072" id="36" type="y-plane"/>
+  <surface coeffs="-9.673936772974072" id="37" type="y-plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 19.347873545948143" id="38" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 -19.347873545948143" id="39" type="plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 -19.347873545948143" id="40" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 19.347873545948143" id="41" type="plane"/>
+  <surface coeffs="10.06581326818653" id="48" type="y-plane"/>
+  <surface coeffs="-10.06581326818653" id="49" type="y-plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 20.13162653637306" id="50" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 -20.13162653637306" id="51" type="plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 -20.13162653637306" id="52" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 20.13162653637306" id="53" type="plane"/>
+  <surface coeffs="9.673936772974072" id="54" type="y-plane"/>
+  <surface coeffs="-9.673936772974072" id="55" type="y-plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 19.347873545948143" id="56" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 -19.347873545948143" id="57" type="plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 -19.347873545948143" id="58" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 19.347873545948143" id="59" type="plane"/>
+  <surface coeffs="10.06581326818653" id="66" type="y-plane"/>
+  <surface coeffs="-10.06581326818653" id="67" type="y-plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 20.13162653637306" id="68" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 -20.13162653637306" id="69" type="plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 -20.13162653637306" id="70" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 20.13162653637306" id="71" type="plane"/>
+  <surface coeffs="9.673936772974072" id="72" type="y-plane"/>
+  <surface coeffs="-9.673936772974072" id="73" type="y-plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 19.347873545948143" id="74" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 -19.347873545948143" id="75" type="plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 -19.347873545948143" id="76" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 19.347873545948143" id="77" type="plane"/>
+  <surface coeffs="10.06581326818653" id="84" type="y-plane"/>
+  <surface coeffs="-10.06581326818653" id="85" type="y-plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 20.13162653637306" id="86" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 -20.13162653637306" id="87" type="plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 -20.13162653637306" id="88" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 20.13162653637306" id="89" type="plane"/>
+  <surface coeffs="9.673936772974072" id="90" type="y-plane"/>
+  <surface coeffs="-9.673936772974072" id="91" type="y-plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 19.347873545948143" id="92" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 -19.347873545948143" id="93" type="plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 -19.347873545948143" id="94" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 19.347873545948143" id="95" type="plane"/>
+  <surface coeffs="10.06581326818653" id="102" type="y-plane"/>
+  <surface coeffs="-10.06581326818653" id="103" type="y-plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 20.13162653637306" id="104" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 -20.13162653637306" id="105" type="plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 -20.13162653637306" id="106" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 20.13162653637306" id="107" type="plane"/>
+  <surface coeffs="9.673936772974072" id="108" type="y-plane"/>
+  <surface coeffs="-9.673936772974072" id="109" type="y-plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 19.347873545948143" id="110" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 -19.347873545948143" id="111" type="plane"/>
+  <surface coeffs="1.7320508075688772 1.0 0.0 -19.347873545948143" id="112" type="plane"/>
+  <surface coeffs="-1.7320508075688772 1.0 0.0 19.347873545948143" id="113" type="plane"/>
+</geometry>

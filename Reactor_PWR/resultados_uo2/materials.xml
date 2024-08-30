@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="1" name="uo2_le" volume="2472195.938500112">
+    <density units="g/cm3" value="10.47635"/>
+    <nuclide ao="1.999242" name="O16"/>
+    <nuclide ao="0.000758" name="O17"/>
+    <nuclide ao="0.0002126684867730073" name="U234"/>
+    <nuclide ao="0.023793369582048193" name="U235"/>
+    <nuclide ao="0.0001089850610219513" name="U236"/>
+    <nuclide ao="0.9758849768701569" name="U238"/>
+  </material>
+  <material depletable="true" id="2" name="uo2_me" volume="2425550.732113317">
+    <density units="g/cm3" value="10.47635"/>
+    <nuclide ao="1.999242" name="O16"/>
+    <nuclide ao="0.000758" name="O17"/>
+    <nuclide ao="0.0003076486460324053" name="U234"/>
+    <nuclide ao="0.034419758411497886" name="U235"/>
+    <nuclide ao="0.00015765902588543755" name="U236"/>
+    <nuclide ao="0.9651149339165843" name="U238"/>
+  </material>
+  <material depletable="true" id="3" name="uo2_he" volume="2425550.732113317">
+    <density units="g/cm3" value="10.47635"/>
+    <nuclide ao="1.999242" name="O16"/>
+    <nuclide ao="0.000758" name="O17"/>
+    <nuclide ao="0.00040260292195070947" name="U234"/>
+    <nuclide ao="0.04504325141039924" name="U235"/>
+    <nuclide ao="0.0002063197264540987" name="U236"/>
+    <nuclide ao="0.9543478259411959" name="U238"/>
+  </material>
+  <material id="9" name="cladding">
+    <density units="g/cm3" value="6.56"/>
+    <nuclide name="Cr50" wo="0.015442640504057758"/>
+    <nuclide name="Cr52" wo="0.30968764069997984"/>
+    <nuclide name="Cr53" wo="0.03579227122909818"/>
+    <nuclide name="Cr54" wo="0.009077447566864271"/>
+    <nuclide name="Fe54" wo="0.020888565424015366"/>
+    <nuclide name="Fe56" wo="0.3400356564843811"/>
+    <nuclide name="Fe57" wo="0.007993363870596154"/>
+    <nuclide name="Fe58" wo="0.0010824142210074177"/>
+    <nuclide name="Zr90" wo="0.49468888242007875"/>
+    <nuclide name="Zr91" wo="0.10908073799245124"/>
+    <nuclide name="Zr92" wo="0.16856515787915632"/>
+    <nuclide name="Zr94" wo="0.17454561396390236"/>
+    <nuclide name="Zr96" wo="0.02871960774441144"/>
+    <nuclide name="Sn112" wo="0.0015544678656227457"/>
+    <nuclide name="Sn114" wo="0.0010765630314981298"/>
+    <nuclide name="Sn115" wo="0.000559464829567812"/>
+    <nuclide name="Sn116" wo="0.024133236862465973"/>
+    <nuclide name="Sn117" wo="0.012857244653481698"/>
+    <nuclide name="Sn118" wo="0.04089357361114424"/>
+    <nuclide name="Sn119" wo="0.014626766060803978"/>
+    <nuclide name="Sn120" wo="0.05594218734509848"/>
+    <nuclide name="Sn122" wo="0.008082731907546938"/>
+    <nuclide name="Sn124" wo="0.010273763832769997"/>
+  </material>
+  <material id="10" name="Agua borada">
+    <density units="g/cm3" value="1.0"/>
+    <nuclide ao="1.99968852" name="H1"/>
+    <nuclide ao="0.00031148" name="H2"/>
+    <nuclide ao="9.91e-05" name="B10"/>
+    <nuclide ao="0.0004009" name="B11"/>
+    <nuclide ao="0.999621" name="O16"/>
+    <nuclide ao="0.000379" name="O17"/>
+    <sab name="c_H_in_H2O"/>
+  </material>
+  <material id="11" name="Vasija del reactor">
+    <density units="g/cm3" value="7.9"/>
+    <nuclide name="Cr52" wo="0.002092475"/>
+    <nuclide name="Mn55" wo="0.01"/>
+    <nuclide name="Fe54" wo="0.05437098"/>
+    <nuclide name="Fe56" wo="0.88500663"/>
+    <nuclide name="Fe57" wo="0.0208008"/>
+    <nuclide name="Fe58" wo="0.00282159"/>
+    <nuclide name="Ni58" wo="0.0067198"/>
+    <nuclide name="Ni60" wo="0.0026776"/>
+    <nuclide name="Cu63" wo="0.0013696"/>
+    <nuclide name="C0" wo="0.0025"/>
+  </material>
+  <material id="12" name="Reflector inferior">
+    <density units="g/cm3" value="4.32"/>
+    <nuclide name="H1" wo="0.0095661"/>
+    <nuclide name="O16" wo="0.0759107"/>
+    <nuclide name="Cr52" wo="0.145407678031"/>
+    <nuclide name="Mn55" wo="0.018287"/>
+    <nuclide name="Fe54" wo="0.035620772088"/>
+    <nuclide name="Fe56" wo="0.579805982228"/>
+    <nuclide name="Fe57" wo="0.01362750048"/>
+    <nuclide name="Fe58" wo="0.001848545204"/>
+    <nuclide name="Ni58" wo="0.055298376566"/>
+    <sab name="c_H_in_H2O"/>
+  </material>
+  <material id="13" name="Reflector superior">
+    <density units="g/cm3" value="4.28"/>
+    <nuclide name="H1" wo="0.0086117"/>
+    <nuclide name="O16" wo="0.0683369"/>
+    <nuclide name="Cr52" wo="0.146766614995"/>
+    <nuclide name="Mn55" wo="0.0184579"/>
+    <nuclide name="Fe54" wo="0.035953677186"/>
+    <nuclide name="Fe56" wo="0.585224740891"/>
+    <nuclide name="Fe57" wo="0.01375486056"/>
+    <nuclide name="Fe58" wo="0.001865821363"/>
+    <nuclide name="Ni58" wo="0.055815129186"/>
+    <sab name="c_H_in_H2O"/>
+  </material>
+  <material id="14" name="Placa inferior vasija">
+    <density units="g/cm3" value="7.184"/>
+    <nuclide name="H1" wo="0.0011505"/>
+    <nuclide name="O16" wo="0.0091296"/>
+    <nuclide name="Cr52" wo="0.157390026871"/>
+    <nuclide name="Mn55" wo="0.019794"/>
+    <nuclide name="Fe54" wo="0.03855611055"/>
+    <nuclide name="Fe56" wo="0.627585036425"/>
+    <nuclide name="Fe57" wo="0.014750478"/>
+    <nuclide name="Fe58" wo="0.002000875025"/>
+    <nuclide name="Ni58" wo="0.059855207342"/>
+    <sab name="c_H_in_H2O"/>
+  </material>
+  <material id="15" name="Plenum inferior">
+    <density units="g/cm3" value="2.53"/>
+    <nuclide name="H1" wo="0.0245014"/>
+    <nuclide name="O16" wo="0.1944274"/>
+    <nuclide name="Cr52" wo="0.124142524198"/>
+    <nuclide name="Mn55" wo="0.0156126"/>
+    <nuclide name="Fe54" wo="0.030411411144"/>
+    <nuclide name="Fe56" wo="0.495012237964"/>
+    <nuclide name="Fe57" wo="0.01163454624"/>
+    <nuclide name="Fe58" wo="0.001578204652"/>
+    <nuclide name="Ni58" wo="0.047211231662"/>
+    <sab name="c_H_in_H2O"/>
+  </material>
+  <material id="16" name="Plenum superior">
+    <density units="g/cm3" value="1.746"/>
+    <nuclide name="H1" wo="0.035887"/>
+    <nuclide name="O16" wo="0.2847761"/>
+    <nuclide name="Cr52" wo="0.107931450781"/>
+    <nuclide name="Mn55" wo="0.0135739"/>
+    <nuclide name="Fe54" wo="0.02644016154"/>
+    <nuclide name="Fe56" wo="0.43037146399"/>
+    <nuclide name="Fe57" wo="0.0101152584"/>
+    <nuclide name="Fe58" wo="0.00137211607"/>
+    <nuclide name="Ni58" wo="0.04104621835"/>
+    <sab name="c_H_in_H2O"/>
+  </material>
+  <material id="17" name="Cabezal superior elementos combustibles">
+    <density units="g/cm3" value="3.044"/>
+    <nuclide name="H1" wo="0.0162913"/>
+    <nuclide name="O16" wo="0.1292776"/>
+    <nuclide name="Zr90" wo="0.43313403903"/>
+    <nuclide name="Zr91" wo="0.09549277374"/>
+    <nuclide name="Zr92" wo="0.14759527104"/>
+    <nuclide name="Zr94" wo="0.15280552077"/>
+    <nuclide name="Zr96" wo="0.02511169542"/>
+    <sab name="c_H_in_H2O"/>
+  </material>
+  <material id="18" name="Cabezal inferior elementos combustibles">
+    <density units="g/cm3" value="1.762"/>
+    <nuclide name="H1" wo="0.0292856"/>
+    <nuclide name="O16" wo="0.2323919"/>
+    <nuclide name="Zr90" wo="0.3741373658"/>
+    <nuclide name="Zr91" wo="0.0824858164"/>
+    <nuclide name="Zr92" wo="0.1274914944"/>
+    <nuclide name="Zr94" wo="0.1319920622"/>
+    <nuclide name="Zr96" wo="0.0216912612"/>
+    <sab name="c_H_in_H2O"/>
+  </material>
+</materials>
