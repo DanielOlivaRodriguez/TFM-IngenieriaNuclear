@@ -14,7 +14,7 @@ Modelo de reactor PWR con 157 elementos combustibles, 3 regiones de enriquecimie
 </p>
 
 #### Reactor SFR
-Modelo de reactor SFR con 452 elementos combustibles hexagonales, dos regiones de enriquecimiento y combustible MOX con actínidos minoritarios y productos de fisión. 
+Modelo de reactor SFR con 450 elementos combustibles hexagonales, dos regiones de enriquecimiento y combustible MOX con actínidos minoritarios y productos de fisión. 
 
  <p algin="center">
     <img src="https://github.com/DanielOlivaRodriguez/TFM-IngenieriaNuclear/blob/main/Reactor_SFR/resultados/imagenes/sfr_core_full.jpg">
